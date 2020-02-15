@@ -11,3 +11,5 @@
    --ref--
    --rows--
    --extra-- using filesort、using temporary(bad news)
+
+3.覆盖索引（mysql）对标完全索引访问（db2）
