@@ -10,4 +10,4 @@
    --key_len--
    --ref--
    --rows--
-   --extra--
+   --extra-- using filesort、using temporary(bad news)
