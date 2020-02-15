@@ -5,3 +5,9 @@
    --select_type--
    --table--
    --type--   类型最好到最差：system>const>eq_ref>ref>range>index>all
+   --possible_keys--
+   --key--
+   --key_len--
+   --ref--
+   --rows--
+   --extra--
