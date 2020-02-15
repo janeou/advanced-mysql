@@ -1,1 +1,7 @@
 1.索引是排好序的快速查找数据机构
+
+2.explain输出：
+   --id--
+   --select_type--
+   --table--
+   --type--   类型最好到最差：system>const>eq_ref>ref>range>index>all
