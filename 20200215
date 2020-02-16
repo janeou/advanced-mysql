@@ -13,3 +13,8 @@
    --extra-- using filesort、using temporary(bad news)
 
 3.覆盖索引（mysql）对标完全索引访问（db2）
+
+4.tips:
+  小表驱动大表
+  优先优化子查询
+  内存充足的情况下，连接缓存池可以设置大点
